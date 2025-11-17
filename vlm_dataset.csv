@@ -1,0 +1,4 @@
+patient_id,image_file,text_prompt,label
+P001,Dataset_BUSI_with_GT\malignant\malignant (1).png,Ultrasound shows malignant lesion; biopsy advised.,"Malignant neoplasm of breast, unspecified"
+P002,Dataset_BUSI_with_GT\benign\benign (1).png,Benign cystic lesion; follow-up after 6 months.,Lobular carcinoma in situ (benign)
+P003,Dataset_BUSI_with_GT\malignant\malignant (1).png,Malignant tumor; chemotherapy initiated.,Malignant neoplasm of upper-inner quadrant of breast

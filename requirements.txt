@@ -1,0 +1,8 @@
+pandas
+matplotlib
+pillow
+fastapi
+uvicorn[standard]
+fhirclient
+python-dotenv
+pytest

@@ -1,0 +1,4 @@
+Patient_ID,Age,Gender,Lab_Result_CA15_3,ICD10_Code,Medication
+P001,45,F,25.3,C50.9,Tamoxifen
+P002,37,F,10.1,D05.1,None
+P003,52,F,40.2,C50.3,Chemotherapy
